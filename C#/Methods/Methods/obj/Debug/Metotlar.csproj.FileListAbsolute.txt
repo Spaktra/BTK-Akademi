@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Metotlar\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Metotlar\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Metotlar\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.pdb
