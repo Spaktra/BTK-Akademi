@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Arrays\Arrays\obj\Debug\Arrays.pdb
