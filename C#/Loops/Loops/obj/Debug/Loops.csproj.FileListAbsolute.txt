@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Loops\Loops\bin\Debug\Loops.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Loops\Loops\bin\Debug\Loops.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Loops\Loops\bin\Debug\Loops.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Loops\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Loops\Loops\obj\Debug\Loops.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Loops\Loops\obj\Debug\Loops.pdb
