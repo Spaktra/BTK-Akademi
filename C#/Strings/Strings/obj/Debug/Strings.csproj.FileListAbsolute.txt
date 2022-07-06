@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Strings\Strings\bin\Debug\Strings.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Strings\Strings\bin\Debug\Strings.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Strings\Strings\bin\Debug\Strings.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Strings\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Strings\Strings\obj\Debug\Strings.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Strings\Strings\obj\Debug\Strings.pdb
