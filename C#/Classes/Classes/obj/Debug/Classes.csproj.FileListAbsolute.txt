@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Classes\Classes\bin\Debug\Classes.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Classes\Classes\bin\Debug\Classes.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Classes\Classes\bin\Debug\Classes.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Classes\Classes\obj\Debug\Classes.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Classes\Classes\obj\Debug\Classes.pdb
