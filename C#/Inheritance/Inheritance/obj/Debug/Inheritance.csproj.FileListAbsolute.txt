@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
