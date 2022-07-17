@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\VirtualMethods\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\VirtualMethods\VirtualMethods\bin\Debug\VirtualMethods.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\VirtualMethods\VirtualMethods\bin\Debug\VirtualMethods.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\VirtualMethods\VirtualMethods\obj\Debug\VirtualMethods.pdb
