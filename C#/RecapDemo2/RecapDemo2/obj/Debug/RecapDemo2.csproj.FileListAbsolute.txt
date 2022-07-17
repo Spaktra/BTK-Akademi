@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\RecapDemo2\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\RecapDemo2\RecapDemo2\bin\Debug\RecapDemo2.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\RecapDemo2\RecapDemo2\bin\Debug\RecapDemo2.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.pdb
