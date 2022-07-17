@@ -1,0 +1,8 @@
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.SuggestedBindingRedirects.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+D:\ALTAY\Eğitimler\BTK AKADEMİ\C#\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
